@@ -1,4 +1,5 @@
-![Turris logo](https://github.com/turris-cz/.github/blob/main/images/Turris.png)
+![Turris Logo Dark](https://github.com/turris-cz/.github/blob/main/images/Turris-dark.svg#gh-light-mode-only)
+![Turris Logo Light](https://github.com/turris-cz/.github/blob/main/images/Turris-light.svg#gh-dark-mode-only)
 
 ## Introduction
 
